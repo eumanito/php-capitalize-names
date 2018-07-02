@@ -5,7 +5,7 @@ Some use cases:
 
 
 | Original      | ucwords(strtolower($str) | capitalize($str) |
-| ------------- | ------------- |------------- |
+| :---  | :---  | :--- |
 | jOÃO DA SILVA  | João Da Silva  | João da Silva |
 | eduardo dall'agnoll  | Eduardo Dall'agnoll  | Eduardo Dall'Agnoll |
 | Papa joão xxiii | Papa João Xxiii | Papa João XXIII |
