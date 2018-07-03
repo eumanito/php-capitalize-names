@@ -12,6 +12,5 @@
             "homepage": "http://www.casaweb.net.br",
             "role": "Developer"
         }
-    ],
-    "minimum-stability": "stable"
+    ]
 }
