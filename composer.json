@@ -1,4 +1,17 @@
 {
     "name": "eumanito/php-capitalize-names",
-    "description": "Capitalize Names in PHP"
+    "description": "Capitalize Names in PHP",
+    "type": "library",
+    "keywords": ["capitalize", "fix names", "capitalize php"],
+    "homepage": "https://github.com/eumanito/php-capitalize-names",
+    "license": ["MIT"],
+    "authors": [
+        {
+            "name": "Manito Maciel",
+            "email": "eumanito@gmail.com",
+            "homepage": "http://www.casaweb.net.br",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable"
 }
