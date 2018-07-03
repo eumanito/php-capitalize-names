@@ -26,5 +26,6 @@ composer require eumanito/php-capitalize-names
 # How to use:
 
 ```php
+include('function.php');
 $name = capitalize('paul mccartney');
 //returns 'Paul McCartney'
