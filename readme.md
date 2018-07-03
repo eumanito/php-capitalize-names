@@ -14,3 +14,17 @@ Some use cases:
 | nome da empresa ltda | Nome Da Empresa Ltda | Nome da Empresa LTDA |
 | nome da empresa me | Nome Da Empresa Me | Nome da Empresa ME |
 | Mr. o'donnel  | Mr. O'donnel | Mr. O'Donnel | 
+
+
+# Install:
+
+Composer install:
+```
+composer require eumanito/php-capitalize-names
+```
+
+# How to use:
+
+```php
+$name = capitalize('paul mccartney');
+//returns 'Paul McCartney'
