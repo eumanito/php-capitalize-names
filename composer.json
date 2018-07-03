@@ -1,7 +1,4 @@
 {
     "name": "eumanito/php-capitalize-names",
-    "description": "Capitalize Names in PHP",
-    "require": {
-        "php": "^^7.0"
-    }
+    "description": "Capitalize Names in PHP"
 }
