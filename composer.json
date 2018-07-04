@@ -12,6 +12,8 @@
             "homepage": "http://www.casaweb.net.br",
             "role": "Developer"
         }
-    ]
-    
+    ],
+    "require": {
+        "yiisoft/yii2:*"
+    },
 }
